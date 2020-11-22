@@ -21,6 +21,7 @@ Ele foi desenvolvida em angular 9.
 @angular/material: 9.2.4
 
 @angular/platform-browser: 9.1.6
+
 @angular/platform-browser-dynamic: 9.1.6
 
 @angular/router: 9.1.6
@@ -35,11 +36,18 @@ zone.js: 0.10.2
 
 # devDependencies
 @angular-devkit/build-angular: 0.901.5
+
 @angular/cli: 9.1.5
+
 @angular/compiler-cli: 9.1.6
+
 @types/lodash: 4.14.165
+
 @types/node: 12.11.1
+
 ts-node: 8.3.0
+
 tslint: 6.1.0
+
 typescript: 3.8.3
 
