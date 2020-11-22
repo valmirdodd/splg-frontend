@@ -21,7 +21,6 @@ Ele foi desenvolvida em angular 9.
 @angular/material: 9.2.4
 
 @angular/platform-browser: 9.1.6
-
 @angular/platform-browser-dynamic: 9.1.6
 
 @angular/router: 9.1.6
