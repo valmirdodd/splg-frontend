@@ -4,6 +4,9 @@ Front-end do teste da seplag
 Frontend criado como parte do teste para a Seplag.
 Ele foi desenvolvida em angular 9.
 
+# url
+http://localhost:4200/
+
 # dependências
 @angular/animations: 9.1.6
 
